@@ -1,8 +1,43 @@
-- 👋 Hi, I’m @Amit766-ui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Amit Vikram 👋
+
+Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a keen interest in creating innovative solutions and exploring new technologies. 
+
+## 🔧 Technologies & Skills
+
+- **Programming Languages**: Java, JavaScript, HTML, CSS
+- **Web Development**: HTML5, CSS3, JavaScript, Node, Express, EJS
+- **Database Management**: SQL, DBMS
+- **Tools & Technologies**: Git, GitHub, APIs
+
+## 🌱 Currently Learning
+
+- Backend Development
+- Advanced JavaScript frameworks
+
+## 💼 Projects
+
+Here are a few of my projects that I am particularly proud of:
+
+- **[HealthGenie](link_to_your_healthgenie_project)**: A healthcare website that offers users AI-assisted interactions about their symptoms.
+- **[AnimeFeel](animefeel.com)**: A blog where I share my thoughts on various anime series and movies.
+- **[Simon Game](https://amit766-ui.github.io/Simon_Game/)**: A fun and interactive memory game inspired by the classic Simon game.
+- **[Portfolio Website](https://amit766-ui.github.io/AmitVikram-Website/)**: My personal portfolio website where I showcase my projects, skills, and experience.
+
+## 🌟 About Me
+
+I'm deeply interested in **anime**, **technology**, and **helping others** solve their problems. I believe in the power of continuous learning and strive to improve my skills every day.
+
+## 📫 Let's Connect!
+
+Feel free to reach out to me:
+
+- [LinkedIn](https://www.linkedin.com/in/amit-vikram-8074061b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Twitter](your_twitter_profile)
+- [Website](https://amit766-ui.github.io/AmitVikram-Website/)
+
+Thank you for visiting my profile! I appreciate your support and look forward to connecting with fellow developers and tech enthusiasts.
+
+
 
 <!---
 Amit766-ui/Amit766-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
