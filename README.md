@@ -19,8 +19,11 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 Here are a few of my projects that I am particularly proud of:
 
 - **[HealthGenie](link_to_your_healthgenie_project)**: A healthcare website that offers users AI-assisted interactions about their symptoms.
+- **[GhostChat](https://amit766-ui.github.io/GhostChat_App-/)**: GhostChat is a secure messaging application that allows users to send secret messages that disappear after being viewed, ensuring privacy and 
+    confidentiality.
 - **[AnimeFeel](animefeel.com)**: A blog where I share my thoughts on various anime series and movies.
 - **[Simon Game](https://amit766-ui.github.io/Simon_Game/)**: A fun and interactive memory game inspired by the classic Simon game.
+- **[Digital Converter](https://amit766-ui.github.io/Digital_Converter/)**: A simple web application that converts decimal numbers to binary and provides ASCII values for characters.
 - **[Portfolio Website](https://amit766-ui.github.io/AmitVikram-Website/)**: My personal portfolio website where I showcase my projects, skills, and experience.
 
 ## 🌟 About Me
