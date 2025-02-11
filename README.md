@@ -6,8 +6,10 @@ Welcome to my GitHub profile! I'm a passionate full stack developer and tech ent
 
 - **Programming Languages**: Java, JavaScript, HTML, CSS
 - **Web Development**: HTML5, CSS3, JavaScript, Node, Express, EJS, React
+- **Frameworks**: Bootstrap
 - **Database Management**: SQL, DBMS
 - **Tools & Technologies**: Git, GitHub, APIs
+- **Ai Models**: Chatgpt, DevinAi, Blackbox, Copilot
 
 ## 🌱 Currently Learning
 
